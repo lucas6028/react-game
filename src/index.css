@@ -1,0 +1,8 @@
+body {
+  background-color: hsla(0, 0%, 0%, 0.9);
+  /* position: relative; */
+}
+h1 {
+  color: #c7ace1;
+  font-size: 3rem;
+}
